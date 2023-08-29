@@ -1,1 +1,1 @@
-This repository is about Vagrant
+Vagrant directory's readme
